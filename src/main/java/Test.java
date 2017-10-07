@@ -30,8 +30,7 @@ public class Test {
         
         });
       
-
-        //ssh.connect("sm.hjkl.ninja");
+ 
         ssh.connect("localhost");
         try {
             //ssh.authPublickey(System.getProperty("user.name"));
